@@ -17,27 +17,43 @@ Her expertise lies in Deep Learning in remote sensing data, time series analysis
 
 -Map Generation from Large Scale Incomplete and Inaccurate Labels
 -======
+
 -nnnn
+
 -
 
 -Spark Solution for PAIRS Batch Export and Overview Layer Generation 
 -======
+
 -nnnn
+
 -
+
 -Solar Forecasting
 -======
+
 -nnnn
+
 -
+
 -Leak Detection for High Pressure Gap Pipeline
 -======
+
 -nnnn
+
 -
+
 
 -Conformal 3D Mesh Generation for Free Style Architectural Design
 -======
+
 -nnnn
+
 -
+
 -Adaptive 2D Mesh Generation Architecture Designs
 -======
+
 -nnnn
+
 -
