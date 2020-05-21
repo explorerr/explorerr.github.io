@@ -12,3 +12,21 @@ Dr. Zhang is a Research Scientist at the IBM T.J. Watson Research Center, where 
 Her expertise lies in Deep Learning in remote sensing data, time series analysis/forecast, big data platform for spatial and temporal data, and dsitribubted training for large scale Deep Learning models. In her PhD, she did advanced large scale adaptive meshing algorithms for Computation Fluid Dynamics simulations, and energy simulation for buildings.
 
 
+# Selected projects:
+
+## Map Generation from Large Scale Incomplete and Inaccurate Labels
+
+
+## Spark Solution for PAIRS Batch Export and Overview Layer Generation 
+
+
+## Solar Forecasting
+
+
+## Leak Detection for High Pressure Gap Pipeline
+
+
+## Conformal 3D Mesh Generation for Free Style Architectural Design
+
+
+## Adaptive 2D Mesh Generation Architecture Designs
