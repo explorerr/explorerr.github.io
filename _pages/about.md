@@ -36,12 +36,31 @@ Map Generation from Large Scale Incomplete and Inaccurate Labels
 
 -Since scaling the mapping task to CONUS, we applied an Decentralized Parallel Stochastic Gradient Descent (DP-SGD) training scheme that is scalable to hundreds of GPUs with near linear speed-up. We demonstrated an implementation of the DP-SGD scheme and achieved a speed up of 14.7 times over a cluster of 16 GPUs.
 
+<!---
+-Unlike previous studies, most of which use datasets that are available only in a few cities across the world, we utilizes publicly available imagery and map data, both of which cover the contiguous United States (CONUS).
+-We approach the technical challenge of inaccurate and incomplete training data adopting state-of-the-art convolutional neural network architectures such as the U-Net and the CycleGAN to incrementally generate maps with increasingly more accurate and more complete labels of man-made infrastructure such as roads and houses.
+Results show that we achieved a recall-score of 84.9%, and precision score of 95% in a subset using manual count in terms of house detection in selected four cities in Texas. 
+
+-->
+
 Spark Solution for PAIRS Batch Export and Overview Layer Generation 
 ---------------
 
-- nnnn
+Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solution is optimized with minimum shuffle operations to perform batch exports and spatial aggregations.
+-![Spark](/images/combined.png "Spark")
 
 -
+-Batch Exports
+  -Batch query on spatio-temporal indexed HBase DataBase with Petabytes of data.
+  -Fast query speed with optimized solution that minimize shuffle operation in Spark.
+  -Exporting Terabytes in minutes.
+  -Supporting Deep Learning training data generation.
+
+-
+-Saptial Aggregation:
+  -Overview Layers are spatial aggregated layer.
+  -Overview layers are used for data exploration at different level of spatial resolutions.
+  
 
 Solar Forecasting
 ---------------
