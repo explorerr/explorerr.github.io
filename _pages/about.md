@@ -69,6 +69,7 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 
 ### Solar Forecasting
 ---------------
+[Paper](https://ieeexplore.ieee.org/document/8588777)
 -![Solar](/images/solar_projects.png "Solar")
 
 #### Forecast of Solar Production Using DCNN
@@ -84,6 +85,8 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 
 Leak Detection for High Pressure Gap Pipeline
 ---------------
+[Paper](https://www.semanticscholar.org/paper/Preventive-Leak-Detection-for-High-Pressure-Gas-Zhang-Huang/dec3944c75c0c23e6f30c958d5efd5e58aecd376) 
+
 -![leak_detection](/images/leak_detection.png "leak_detection")
 
 Two innovative and effective leak detection models: the big leak detection model that identiﬁes medium size leaks preceding big rupture events, and the small leak detection model that identiﬁes small leaks lasting for extended periods of time. The data mining was developed using unsupervised tasks analyzing billions of data records to identify leaks of different sizes and impacts, with very low false positive rates and early preventative detections.
@@ -91,6 +94,9 @@ Two innovative and effective leak detection models: the big leak detection model
 
 -Conformal 3D Mesh Generation for Free Style Architectural Design
 ---------------
+[Paper](https://www.researchgate.net/publication/228118810_Conformal_adaptive_hexahedral-dominant_mesh_generation_for_CFD_simulation_in_architectural_design_applications) | [Presentation](https://youtu.be/DhGdQhYkTlA) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhGdQhYkTlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 -![3d_mesh](/images/3d_mesh.png "3d_mesh")
 
 Mesh generation is a critical and probably the most manually intensive step in CFD simulations in the architectural domain. One essential feature is the large span of dimensional scales that is encountered in design, particularly if the model aims to simulate indoor and outdoor conditions concurrently, e.g., site at the magnitude of kilometers while building elements at the magnitude of centimeters. In addressing the challenge this paper presents an approach to generate adaptive hexahedral-dominate meshes for CFD simulations in sustainable architectural design applications. Uniform all-hexahedral meshes and adaptive hexahedral-dominant meshes are both generated for natural ventilation simulation of a proposed retroﬁt building in Philadelphia. Simulation results show that adaptive hexahedral-dominate meshes generate very similar results of air change rate in the space due to natural ventilation, compared to all-hexahedral meshes yet with up to 90% reduction in number of elements in the domain, hence improve computation efﬁciency.
