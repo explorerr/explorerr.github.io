@@ -22,14 +22,10 @@ Map Generation from Large Scale Incomplete and Inaccurate Labels
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pZJmnIUTAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-image: images/osm_sample.png
+image: https://github.com/explorerr/explorerr.github.io/blob/master/images/osm_sample.png
 
 
-<p>
-    <img src = "osm_sample.png"
-         width="800" />
-</p>
-  
+
 <img src="https://github.com/explorerr/explorerr.github.io/blob/master/images/osm_sample.png" width="800"/>
 - In this paper, we performed a case study to investigate the quality of publicly
 available data in the context of map generation from high-resolution aerial/satellite
