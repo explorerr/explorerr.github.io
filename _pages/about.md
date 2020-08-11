@@ -50,16 +50,18 @@ Spark Solution for PAIRS Batch Export and Overview Layer Generation
 -![Spark](/images/combined.png "Spark")
 
 
--Batch Exports
-  -Batch query on spatio-temporal indexed HBase DataBase with Petabytes of data.
-  -Fast query speed with optimized solution that minimize shuffle operation in Spark.
-  -Exporting Terabytes in minutes.
-  -Supporting Deep Learning training data generation.
+Batch Exports
+-------
+-Batch query on spatio-temporal indexed HBase DataBase with Petabytes of data.
+-Fast query speed with optimized solution that minimize shuffle operation in Spark.
+-Exporting Terabytes in minutes.
+-Supporting Deep Learning training data generation.
 
 
--Saptial Aggregation:
-  -Overview Layers are spatial aggregated layer.
-  -Overview layers are used for data exploration at different level of spatial resolutions.
+Saptial Aggregation:
+-------
+-Overview Layers are spatial aggregated layer.
+-Overview layers are used for data exploration at different level of spatial resolutions.
   
 
 Solar Forecasting
