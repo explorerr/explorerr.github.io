@@ -22,10 +22,11 @@ Map Generation from Large Scale Incomplete and Inaccurate Labels
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pZJmnIUTAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+-
+-Example: editing a markdown file for a talk
 -![Editing a markdown file for a talk](/images/osm_sample.png "Editing a markdown file for a talk")
 
-
+-
 - In this paper, we performed a case study to investigate the quality of publicly
 available data in the context of map generation from high-resolution aerial/satellite
 imagery by applying deep learning architectures.
