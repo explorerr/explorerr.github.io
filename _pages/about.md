@@ -22,7 +22,9 @@ Map Generation from Large Scale Incomplete and Inaccurate Labels
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pZJmnIUTAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- /images/osm_sample.png
+
+
+- [](/images/osm_sample.png)
 
 
 - In this paper, we performed a case study to investigate the quality of publicly
