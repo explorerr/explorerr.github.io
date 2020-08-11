@@ -24,7 +24,7 @@ Map Generation from Large Scale Incomplete and Inaccurate Labels
 
 
 -Example Open Street Map Labels:
--![Example OSM labels](/images/osm_sample.png "Example OSM labels")
+-![Example OSM labels](/images/osm_sample.png "Example OSM labels") | ![Example of generated maps](/images/front.png "Edxample of generated maps")
 
 
 -Example of generated maps:
