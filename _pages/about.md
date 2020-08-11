@@ -12,11 +12,11 @@ Dr. Zhang is a Research Scientist at the IBM T.J. Watson Research Center, where 
 Her expertise lies in Deep Learning in remote sensing data, time series analysis/forecast, big data platform for spatial and temporal data, and distribubted training for large scale Deep Learning models. In her PhD, she did advanced large scale adaptive meshing algorithms for Computation Fluid Dynamics simulations, and energy simulation for buildings.
 
 
-Selected projects:
----------------
+## Selected projects:
+----------------
 
 
-Map Generation from Large Scale Incomplete and Inaccurate Labels 
+### Map Generation from Large Scale Incomplete and Inaccurate Labels 
 ---------------
 [Paper](https://arxiv.org/pdf/1703.10593.pdf) | [Presentation](https://youtu.be/RXxh1PMvLW0) | [Short Promotional Video](https://youtu.be/6pZJmnIUTAc)
 
@@ -43,28 +43,35 @@ Results show that we achieved a recall-score of 84.9%, and precision score of 95
 
 -->
 
-Spark Solution for PAIRS Batch Export and Overview Layer Generation 
+### Spark Solution for PAIRS Batch Export and Overview Layer Generation 
 ---------------
 
 -Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solution is optimized with minimum shuffle operations to perform batch exports and spatial aggregations.
 -![Spark](/images/combined.png "Spark")
 
 
-Batch Exports
--------
+#### Batch Exports
+---------------
+
 -Batch query on spatio-temporal indexed HBase DataBase with Petabytes of data.
+
 -Fast query speed with optimized solution that minimize shuffle operation in Spark.
+
 -Exporting Terabytes in minutes.
+
 -Supporting Deep Learning training data generation.
 
 
-Saptial Aggregation:
--------
+
+#### Saptial Aggregation:
+---------------
+
 -Overview Layers are spatial aggregated layer.
+
 -Overview layers are used for data exploration at different level of spatial resolutions.
   
 
-Solar Forecasting
+### Solar Forecasting
 ---------------
 
 - nnnn
