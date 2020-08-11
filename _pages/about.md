@@ -23,15 +23,18 @@ Map Generation from Large Scale Incomplete and Inaccurate Labels
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pZJmnIUTAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -
--Example: editing a markdown file for a talk
--![Editing a markdown file for a talk](/images/osm_sample.png "Editing a markdown file for a talk")
+- Example Open Street Map Labels:
+-![Example OSM labels](/images/osm_sample.png "Example OSM labels")
+
+
+- Example of generated maps:
+-![Example of generated maps](/images/front.png "Edxample of generated maps")
 
 -
-- In this paper, we performed a case study to investigate the quality of publicly
-available data in the context of map generation from high-resolution aerial/satellite
-imagery by applying deep learning architectures.
+- Publicly available label data for map generation from high resolution remote sensing imageries are not accurate nor complete. We have proposed and implemented an modeling approach with incremental data augmentation which can generate maps as accurately as the models trained on accurate data labels. 
+- Exploiting the fact that CycleGan does not require paired images, which shows better generalization power, we have been able to use a variant of cycleGan to augment the training data with more accurate labels, and yielding a better trained U-Net model for the map generation task 
 
--
+- Since scaling the mapping task to CONUS, we applied an Decentralized Parallel Stochastic Gradient Descent (DP-SGD) training scheme that is scalable to hundreds of GPUs with near linear speed-up. We demonstrated an implementation of the DP-SGD scheme and achieved a speed up of 14.7 times over a cluster of 16 GPUs.
 
 Spark Solution for PAIRS Batch Export and Overview Layer Generation 
 ---------------
