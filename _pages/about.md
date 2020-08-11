@@ -23,12 +23,12 @@ Her expertise lies in Deep Learning in remote sensing data, time series analysis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pZJmnIUTAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
--Example Open Street Map Labels:
--![Example OSM labels](/images/osm_sample.png "Example OSM labels") 
+Example Open Street Map Labels:
+![Example OSM labels](/images/osm_sample.png "Example OSM labels") 
 
 
--Example of generated maps:
--![Example of generated maps](/images/front.png "Edxample of generated maps")
+Example of generated maps:
+![Example of generated maps](/images/front.png "Edxample of generated maps")
 
 
 + Publicly available label data for map generation from high resolution remote sensing imageries are not accurate nor complete. We have proposed and implemented an modeling approach with incremental data augmentation which can generate maps as accurately as the models trained on accurate data labels. 
