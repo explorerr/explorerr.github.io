@@ -69,30 +69,42 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 
 ### Solar Forecasting
 ---------------
+-![Solar](/images/solar_projects.png "Solar")
 
-- nnnn
+#### Forecast of Solar Production Using DCNN
++ Several deep convolutional neural networks utilizing high resolution weather forecast data exploring various temporal and spatial connectivities to capture the cloud movement pattern and its effect on forecasting solar energy generation for solar farms.
++ Comparing with state-of-the-art forecast error rate, we have been able to reduce the error rate from about 21% in the persistent model, to 15.1% from the SVR model, and to 11.8% from the convolutional neural networks. 
 
--
+
+#### Rasterized Probabilistic Solar Forecast Using Near Real Time Geo-Stationary Satellite (GOES) Imageries
++ Using Deep Convolution Neural Network on near real time geo-stationary satellite (GOES) tmageries to first forecast future GOES images. 
+    + image sequence to image sequence generation.
++ Then a gridded (rasterized) forecast of solar irradiance quantiles. 
+
 
 Leak Detection for High Pressure Gap Pipeline
 ---------------
+-![leak_detection](/images/leak_detection.png "leak_detection")
 
-- nnnn
-
--
+Two innovative and effective leak detection models: the big leak detection model that identiﬁes medium size leaks preceding big rupture events, and the small leak detection model that identiﬁes small leaks lasting for extended periods of time. The data mining was developed using unsupervised tasks analyzing billions of data records to identify leaks of different sizes and impacts, with very low false positive rates and early preventative detections.
 
 
 -Conformal 3D Mesh Generation for Free Style Architectural Design
 ---------------
+-![3d_mesh](/images/3d_mesh.png "3d_mesh")
 
-- nnnn
-
--
+Mesh generation is a critical and probably the most manually intensive step in CFD simulations in the architectural domain. One essential feature is the large span of dimensional scales that is encountered in design, particularly if the model aims to simulate indoor and outdoor conditions concurrently, e.g., site at the magnitude of kilometers while building elements at the magnitude of centimeters. In addressing the challenge this paper presents an approach to generate adaptive hexahedral-dominate meshes for CFD simulations in sustainable architectural design applications. Uniform all-hexahedral meshes and adaptive hexahedral-dominant meshes are both generated for natural ventilation simulation of a proposed retroﬁt building in Philadelphia. Simulation results show that adaptive hexahedral-dominate meshes generate very similar results of air change rate in the space due to natural ventilation, compared to all-hexahedral meshes yet with up to 90% reduction in number of elements in the domain, hence improve computation efﬁciency.
 
 -Adaptive 2D Mesh Generation Architecture Designs
 ---------------
+-![2d_mesh](/images/2d_mesh.png "2d_mesh")
 
+A prototype meshing tool is developed to construct adaptive quadrilateral meshes from two-dimensional image data, e.g., architecture drawings. First the quadtree based isocontouring method is utilized
 
-- nnnn
-
--
+to generate initial uniform quadrilateral meshes in the immediate region of the objects. Meshes are
+further decomposed into finer quads adaptively near the surface of the object without introducing any
+hanging nodes. Boundary layers are then generated using the pillowing technique and the thickness of
+the boundary layer is controlled to achieve the desired yþ values for different near wall turbulence
+models. Finally, meshes are extended to the ambient domain with desired sizes, where flow fields are
+assumed to be relatively steady. The developed tool has been employed to generate meshes for CFD
+simulations of scenarios commonly existing in the indoor and outdoor environment.
