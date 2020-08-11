@@ -16,10 +16,12 @@ Selected projects:
 ---------------
 
 
-Map Generation from Large Scale Incomplete and Inaccurate Labels
+Map Generation from Large Scale Incomplete and Inaccurate Labels [Paper](https://arxiv.org/pdf/1703.10593.pdf)
 ---------------
 <img src="https://github.com/explorerr/explorerr.github.io/blob/master/images/osm_sample.png" width="800"/>
-- nnnn
+- In this paper, we performed a case study to investigate the quality of publicly
+available data in the context of map generation from high-resolution aerial/satellite
+imagery by applying deep learning architectures.
 
 -
 
