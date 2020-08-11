@@ -47,6 +47,8 @@ Spark Solution for PAIRS Batch Export and Overview Layer Generation
 ---------------
 
 Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solution is optimized with minimum shuffle operations to perform batch exports and spatial aggregations.
+
+-Spark solutions
 -![Spark](/images/combined.png "Spark")
 
 -
