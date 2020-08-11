@@ -103,6 +103,8 @@ Mesh generation is a critical and probably the most manually intensive step in C
 
 -Adaptive 2D Mesh Generation Architecture Designs
 ---------------
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360132310001149)
+
 -![2d_mesh](/images/2d_mesh.png "2d_mesh")
 
 A prototype meshing tool is developed to construct adaptive quadrilateral meshes from two-dimensional image data, e.g., architecture drawings. First the quadtree based isocontouring method is utilized to generate initial uniform quadrilateral meshes in the immediate region of the objects. Meshes are further decomposed into finer quads adaptively near the surface of the object without introducing any hanging nodes. Boundary layers are then generated using the pillowing technique and the thickness of the boundary layer is controlled to achieve the desired yþ values for different near wall turbulence models. Finally, meshes are extended to the ambient domain with desired sizes, where flow fields are assumed to be relatively steady. The developed tool has been employed to generate meshes for CFD simulations of scenarios commonly existing in the indoor and outdoor environment.
