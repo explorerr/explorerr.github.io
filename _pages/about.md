@@ -9,10 +9,10 @@ redirect_from:
 ---
 Dr. Zhang is a Research Scientist at the IBM T.J. Watson Research Center, where she works in the AI department, more specifically in the area of physical science and analytics. She works on the core of an IBM product called [PAIRS](https://www.ibm.com/us-en/marketplace/geospatial-big-data-analytics) -- Physical Analytics Integrated data Repository and Services.
 
-Her expertise lies in Deep Learning in remote sensing data, time series analysis/forecast, big data platform for spatial and temporal data, and distribubted training for large scale Deep Learning models. In her PhD, she did advanced large scale adaptive meshing algorithms for Computation Fluid Dynamics simulations, and energy simulation for buildings.
+Her expertise lies in the area of Deep Learning on remote sensing data, time series analysis/forecast, big data platform for spatial and temporal data, and distribubted training for large scale Deep Learning models. In her PhD, she did advanced large scale adaptive meshing algorithms for Computation Fluid Dynamics simulations, and energy simulation for buildings.
 
 
-## Selected projects:
+## Selected projects
 ----------------
 
 
@@ -23,11 +23,11 @@ Her expertise lies in Deep Learning in remote sensing data, time series analysis
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pZJmnIUTAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Example Open Street Map Labels:
+Example Open Street Map Labels
 ![Example OSM labels](/images/osm_sample.png "Example OSM labels") 
 
 
-Example of generated maps:
+Example of generated maps
 ![Example of generated maps](/images/front.png "Edxample of generated maps")
 
 
@@ -47,7 +47,7 @@ Results show that we achieved a recall-score of 84.9%, and precision score of 95
 ---------------
 
 Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solution is optimized with minimum shuffle operations to perform batch exports and spatial aggregations.
--![Spark](/images/combined.png "Spark")
+![Spark](/images/combined.png "Spark")
 
 
 #### Batch Exports
@@ -60,7 +60,7 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 
 
 
-#### Spatial Aggregation:
+#### Spatial Aggregation
 ---------------
 
 + Overview Layers are spatial aggregated layer.
@@ -70,7 +70,7 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 ### Solar Forecasting
 ---------------
 [Paper](https://ieeexplore.ieee.org/document/8588777)
--![Solar](/images/solar_projects.png "Solar")
+![Solar](/images/solar_projects.png "Solar")
 
 #### Forecast of Solar Production Using DCNN
 + Several deep convolutional neural networks utilizing high resolution weather forecast data exploring various temporal and spatial connectivities to capture the cloud movement pattern and its effect on forecasting solar energy generation for solar farms.
@@ -87,7 +87,7 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 ---------------
 [Paper](https://www.semanticscholar.org/paper/Preventive-Leak-Detection-for-High-Pressure-Gas-Zhang-Huang/dec3944c75c0c23e6f30c958d5efd5e58aecd376) 
 
--![leak_detection](/images/leak_detection.png "leak_detection")
+![leak_detection](/images/leak_detection.png "leak_detection")
 
 Two innovative and effective leak detection models: the big leak detection model that identiﬁes medium size leaks preceding big rupture events, and the small leak detection model that identiﬁes small leaks lasting for extended periods of time. The data mining was developed using unsupervised tasks analyzing billions of data records to identify leaks of different sizes and impacts, with very low false positive rates and early preventative detections.
 
@@ -97,14 +97,14 @@ Two innovative and effective leak detection models: the big leak detection model
 [Paper](https://www.researchgate.net/publication/228118810_Conformal_adaptive_hexahedral-dominant_mesh_generation_for_CFD_simulation_in_architectural_design_applications) | [Presentation](https://youtu.be/DhGdQhYkTlA) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhGdQhYkTlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
--![3d_mesh](/images/3d_mesh.png "3d_mesh")
+![3d_mesh](/images/3d_mesh.png "3d_mesh")
 
 Mesh generation is a critical and probably the most manually intensive step in CFD simulations in the architectural domain. One essential feature is the large span of dimensional scales that is encountered in design, particularly if the model aims to simulate indoor and outdoor conditions concurrently, e.g., site at the magnitude of kilometers while building elements at the magnitude of centimeters. In addressing the challenge this paper presents an approach to generate adaptive hexahedral-dominate meshes for CFD simulations in sustainable architectural design applications. Uniform all-hexahedral meshes and adaptive hexahedral-dominant meshes are both generated for natural ventilation simulation of a proposed retroﬁt building in Philadelphia. Simulation results show that adaptive hexahedral-dominate meshes generate very similar results of air change rate in the space due to natural ventilation, compared to all-hexahedral meshes yet with up to 90% reduction in number of elements in the domain, hence improve computation efﬁciency.
 
--Adaptive 2D Mesh Generation Architecture Designs
+### Adaptive 2D Mesh Generation Architecture Designs
 ---------------
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360132310001149)
 
--![2d_mesh](/images/2d_mesh.png "2d_mesh")
+![2d_mesh](/images/2d_mesh.png "2d_mesh")
 
 A prototype meshing tool is developed to construct adaptive quadrilateral meshes from two-dimensional image data, e.g., architecture drawings. First the quadtree based isocontouring method is utilized to generate initial uniform quadrilateral meshes in the immediate region of the objects. Meshes are further decomposed into finer quads adaptively near the surface of the object without introducing any hanging nodes. Boundary layers are then generated using the pillowing technique and the thickness of the boundary layer is controlled to achieve the desired yþ values for different near wall turbulence models. Finally, meshes are extended to the ambient domain with desired sizes, where flow fields are assumed to be relatively steady. The developed tool has been employed to generate meshes for CFD simulations of scenarios commonly existing in the indoor and outdoor environment.
