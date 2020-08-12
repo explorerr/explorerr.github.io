@@ -60,7 +60,7 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 
 
 
-#### Saptial Aggregation:
+#### Spatial Aggregation:
 ---------------
 
 + Overview Layers are spatial aggregated layer.
@@ -83,7 +83,7 @@ Exploiting the Z-Order index spatio-temporal data stored in HBase, a spark solut
 + Then a gridded (rasterized) forecast of solar irradiance quantiles. 
 
 
-Leak Detection for High Pressure Gap Pipeline
+### Leak Detection for High Pressure Gap Pipeline
 ---------------
 [Paper](https://www.semanticscholar.org/paper/Preventive-Leak-Detection-for-High-Pressure-Gas-Zhang-Huang/dec3944c75c0c23e6f30c958d5efd5e58aecd376) 
 
@@ -92,7 +92,7 @@ Leak Detection for High Pressure Gap Pipeline
 Two innovative and effective leak detection models: the big leak detection model that identiﬁes medium size leaks preceding big rupture events, and the small leak detection model that identiﬁes small leaks lasting for extended periods of time. The data mining was developed using unsupervised tasks analyzing billions of data records to identify leaks of different sizes and impacts, with very low false positive rates and early preventative detections.
 
 
--Conformal 3D Mesh Generation for Free Style Architectural Design
+### Conformal 3D Mesh Generation for Free Style Architectural Design
 ---------------
 [Paper](https://www.researchgate.net/publication/228118810_Conformal_adaptive_hexahedral-dominant_mesh_generation_for_CFD_simulation_in_architectural_design_applications) | [Presentation](https://youtu.be/DhGdQhYkTlA) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhGdQhYkTlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
