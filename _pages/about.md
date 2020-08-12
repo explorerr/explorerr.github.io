@@ -26,7 +26,6 @@ Her expertise lies in the area of Deep Learning on remote sensing data, time ser
 Example of Open Street Map (OSM) labels
 ![Example OSM labels](/images/osm_sample.png "Example OSM labels") 
 
-
 Example of generated maps
 ![Example of generated maps](/images/front.png "Edxample of generated maps")
 
