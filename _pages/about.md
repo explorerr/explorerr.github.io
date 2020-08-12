@@ -23,7 +23,7 @@ Her expertise lies in the area of Deep Learning on remote sensing data, time ser
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pZJmnIUTAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Example Open Street Map Labels
+Example of Open Street Map (OSM) labels
 ![Example OSM labels](/images/osm_sample.png "Example OSM labels") 
 
 
