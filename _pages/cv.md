@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D School of Architecture, Carnegie Mellon University, 2011.
-* B.S.& M.S. in Environment Sci. & Engr, double major in Computer Science, Tianjin University, China, 2003, 2006
+* B.S. & M.S. in Environment Sci. & Engr., double major in Computer Sci., Tianjin University, 2003, 2006
 
 Work experience
 ======
