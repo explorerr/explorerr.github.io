@@ -54,28 +54,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 + US Patent App. 14/698,829: Building thermal control techniques
 + US Patent 20150006125 Inverse modeling procedure for building energy using integrated PDE-ODE models and stepwise parameter estimation
 
-##Journal:
+## Journal:
 + Zhang, Rui, Khee Poh Lam, Shi-Chune Yao, Yongjie Zhang, “Coupled EnergyPlus and Computational Fluid Dynamics Simulation for NaturalVentilation”. Building and Environment,2013; Vol.68:100-113. 
 + A Goyal, E Aprilia, G Janssen, Y Kim, T Kumar, R Mueller, D Phan, A Raman, J Schuddebeurs, J Xiong, R Zhang, "Asset health management using predictive and prescriptive analytics for the electric power grid", IBM Journal of Research and Development, 2016: Vol.601:4-1:14.
-Lam, Khee Poh, Rongpeng Zhang, Haopeng Wang, Bing Dong, Rui Zhang, “Development of Web-BasedInformation Technology Infrastructures and Regulatory Repositories for GreenBuilding Codes in China (iCodes)”, Building Simulation, 2013; Vol.6(2):195-205. 
-Young M. Lee, Lianjun An, Fei Liu, Raya Horesh, Young Tae Chae, Rui Zhang, Estepan Meliksetian, Pawan Chowdhary, Paul Nevill, Jane Snowdon, “Building Energy Performance Analytics on Cloud as A Service”, Service Science, 2013; Vol.5:124-136.
-Young M. Lee, Lianjun An, Fei Liu, Raya Horesh, Young Tae Chae, Rui Zhang, “Applying Science and Mathematics to Big Data for SmarterBuildings”, Annals of the New York Academy of Sciences, 2013; Vol.1295:18-25.
-Young M Lee, Lianjun An, Fei Liu, Raya Horesh, Young Tae Chae, Rui Zhang, "Analytics for Smarter Buildings", International Journal of Business Analytics (IJBAN), Vol.1(1):1-15. 
-Zhang, Rui, Khee Poh Lam, Bing Dong, Yun-Shang Chiou, “Information-Theoretic Environment Features Selection for Occupancy Detection in Open Office Spaces”. Building Simulation, 2012; 5(2): 179-188;
-Dong, Bing, Burton Andrews, Khee Poh Lam, Michael Höynck, Rui Zhang, Yun-Shang Chiou and Diego Benitez. "An Information Technology Enabled Sustainability Test-Bed(itest) for Occupancy Detection through an Environmental Sensing Network". Energy and Buildings. 2010; 42(7):1038-1046;
-Zhang, Rui, Khee Poh Lam. “Comparison of Building Load Performance between First Principle Based and Implementable Shading Control Algorithm”, Building Simulation, 2011; 4(2):135-148; 
-Zhang, Rui, Yongjie Zhang, Khee Poh Lam, David H. Archer “APrototype Mesh Generation Tool for CFD Simulations in Architecture Domain”, Building and Environment, 2010; 45(10):2253-2262; 
-Zhang, Rui, Guangbei Tu, Jihong Ling, “Study on Biological Contamination Control Strategies under Different Ventilation Models in Hospital Operating Room”, Building and Environment. 2008; 43(5):793-803;
-Zhang, Rui, Guangbei Tu, You Tu, “Study on the Influence of Occupant Movement to Airborne Bacteria Concentration in Operating Region”, Contamination Control & Air-Conditioning Technology, 2006-4 (In Chinese);
-Zhang, Rui, Guangbei Tu, You Tu, “Study on Biological Contamination Control Strategies Under Different Ventilation Models in Hospital Operating Room”, Contamination Control & Air-Conditioning Technology, 2006-4 (In Chinese); 
-Zhang, Rui, Guangbei Tu, Guoqing Cao, “Investigation ofThe Economical Feasibility of Natural Gas Direct Fired Lithium-Bromide-Absorption Refrigerating Machine in Tianjin”, Gas and Heat，2005; 25(11):35-38 (In Chinese); 
-Cao, Guoqing, Guangbei Tu, Rui Zhang. “Discussion New Testing System to Measure the Performance of High Efficiency Air Filters”, Contamination Control & Air-Conditioning Technology, 2005; 47(3) (In Chinese);13
-Invited Talks:
-Zhang, Rui, Fei Liu, Angela Schoergendorder, Youngdeok Hwang, Young M. Lee and Jane L. Snowdon, “Optimal Selection of Building Components Using Sequential Design via Statistical Based Surrogate Models”. The27th New England Statistical Symposium, April 27, 2013, University of Connecticut. 
-Zhang, Rui, Hongxia Yang, “A Bayesian Approach for Developing Climate Surfaces to Estimate Uncertainty in Daily Weather Interpolations.”. ISBIS 2014 and SLDM Meeting on Data Mining in Business and Industry, Jun. 9-11, 2014, Durham, NC.
-Talks and Presentations:
-Zhang, Rui, Jeaha Yang, Jane L. Snowdon, Fei Liu and Khee Poh Lam, “Rapid Energy Performance Indexing For BuildingEnergy EfficiencyRelated Products In Building Type And Geo-Location Context”, 21st Annual Frontiers in Services Conference, June 14-17, 2012, Bethesda, Maryland. 
-Yang, Jeaha, Rui Zhang, Jane L. Snowdon, Rangachari Anand and Juhnyoung Lee, “SmarterService Delivery for Building Modeling and Simulation”, 21st Annual Frontiers in Services Conference, Jun 14-17, 2012, Bethesda, Maryland. 
-Horesh, Raya, Lianjun An, Young M. Lee, Young T. Chae, Rui Zhang, “Heat Transfer Model and Inversion for Smarter Buildings”, 12th Copper Mountain Conference on IterativeMethods, Mar. 25-30, 2012, Cooper Mountain, Colorado.
-Dissertation:
++ Lam, Khee Poh, Rongpeng Zhang, Haopeng Wang, Bing Dong, Rui Zhang, “Development of Web-BasedInformation Technology Infrastructures and Regulatory Repositories for GreenBuilding Codes in China (iCodes)”, Building Simulation, 2013; Vol.6(2):195-205. 
++ Young M. Lee, Lianjun An, Fei Liu, Raya Horesh, Young Tae Chae, Rui Zhang, Estepan Meliksetian, Pawan Chowdhary, Paul Nevill, Jane Snowdon, “Building Energy Performance Analytics on Cloud as A Service”, Service Science, 2013; Vol.5:124-136.
++ Young M. Lee, Lianjun An, Fei Liu, Raya Horesh, Young Tae Chae, Rui Zhang, “Applying Science and Mathematics to Big Data for SmarterBuildings”, Annals of the New York Academy of Sciences, 2013; Vol.1295:18-25.
++ Young M Lee, Lianjun An, Fei Liu, Raya Horesh, Young Tae Chae, Rui Zhang, "Analytics for Smarter Buildings", International Journal of Business Analytics (IJBAN), Vol.1(1):1-15. 
++ Zhang, Rui, Khee Poh Lam, Bing Dong, Yun-Shang Chiou, “Information-Theoretic Environment Features Selection for Occupancy Detection in Open Office Spaces”. Building Simulation, 2012; 5(2): 179-188;
++ Dong, Bing, Burton Andrews, Khee Poh Lam, Michael Höynck, Rui Zhang, Yun-Shang Chiou and Diego Benitez. "An Information Technology Enabled Sustainability Test-Bed(itest) for Occupancy Detection through an Environmental Sensing Network". Energy and Buildings. 2010; 42(7):1038-1046;
++ Zhang, Rui, Khee Poh Lam. “Comparison of Building Load Performance between First Principle Based and Implementable Shading Control Algorithm”, Building Simulation, 2011; 4(2):135-148; 
++ Zhang, Rui, Yongjie Zhang, Khee Poh Lam, David H. Archer “APrototype Mesh Generation Tool for CFD Simulations in Architecture Domain”, Building and Environment, 2010; 45(10):2253-2262; 
++ Zhang, Rui, Guangbei Tu, Jihong Ling, “Study on Biological Contamination Control Strategies under Different Ventilation Models in Hospital Operating Room”, Building and Environment. 2008; 43(5):793-803;
++ Zhang, Rui, Guangbei Tu, You Tu, “Study on the Influence of Occupant Movement to Airborne Bacteria Concentration in Operating Region”, Contamination Control & Air-Conditioning Technology, 2006-4 (In Chinese);
++ Zhang, Rui, Guangbei Tu, You Tu, “Study on Biological Contamination Control Strategies Under Different Ventilation Models in Hospital Operating Room”, Contamination Control & Air-Conditioning Technology, 2006-4 (In Chinese); 
++ Zhang, Rui, Guangbei Tu, Guoqing Cao, “Investigation ofThe Economical Feasibility of Natural Gas Direct Fired Lithium-Bromide-Absorption Refrigerating Machine in Tianjin”, Gas and Heat，2005; 25(11):35-38 (In Chinese); 
++ Cao, Guoqing, Guangbei Tu, Rui Zhang. “Discussion New Testing System to Measure the Performance of High Efficiency Air Filters”, Contamination Control & Air-Conditioning Technology, 2005; 47(3) (In Chinese);13
+## Invited Talks:
++ Zhang, Rui, Fei Liu, Angela Schoergendorder, Youngdeok Hwang, Young M. Lee and Jane L. Snowdon, “Optimal Selection of Building Components Using Sequential Design via Statistical Based Surrogate Models”. The27th New England Statistical Symposium, April 27, 2013, University of Connecticut. 
++ Zhang, Rui, Hongxia Yang, “A Bayesian Approach for Developing Climate Surfaces to Estimate Uncertainty in Daily Weather Interpolations.”. ISBIS 2014 and SLDM Meeting on Data Mining in Business and Industry, Jun. 9-11, 2014, Durham, NC.
+## Talks and Presentations:
++ Zhang, Rui, Jeaha Yang, Jane L. Snowdon, Fei Liu and Khee Poh Lam, “Rapid Energy Performance Indexing For BuildingEnergy EfficiencyRelated Products In Building Type And Geo-Location Context”, 21st Annual Frontiers in Services Conference, June 14-17, 2012, Bethesda, Maryland. 
++ Yang, Jeaha, Rui Zhang, Jane L. Snowdon, Rangachari Anand and Juhnyoung Lee, “SmarterService Delivery for Building Modeling and Simulation”, 21st Annual Frontiers in Services Conference, Jun 14-17, 2012, Bethesda, Maryland. 
++ Horesh, Raya, Lianjun An, Young M. Lee, Young T. Chae, Rui Zhang, “Heat Transfer Model and Inversion for Smarter Buildings”, 12th Copper Mountain Conference on Iterative Methods, Mar. 25-30, 2012, Cooper Mountain, Colorado.
+## Dissertation:
 Zhang, Rui, Advanced Building thermal simulation coupling finite volume method and nodal system, Carnegie Mellon University, 2012.
